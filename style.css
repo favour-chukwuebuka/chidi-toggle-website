@@ -1,0 +1,22 @@
+#hello-track {
+    text-align: center;
+    position: absolute;
+    margin: 0px 390px;
+    font-size: 20px;
+    width: 100px;
+    display: none;
+  }
+  
+  #track-button{
+    background: cornflowerblue;
+    color: white;
+    border: none;
+    height: 20px;
+    border-radius: 2px;
+    margin: 30px 404px;
+    width: 75px;
+  }
+
+  #hello-track.show {
+    display: block;
+  }
